@@ -1,11 +1,10 @@
-html, css, java script, sql ,angular ,asp.net(api),tehnologii cloud ,poo,Pro C#(oreily),design pattern-uri,
-git sistem de versionare 
-tutorial de git 
-Universitatea de vest, admitere la info daca mai e la alegere
 git
 recapitulare htmp,css
 java script
 sql
 angular
+asp.net
+tehnologii cloud
 recapitulare poo
-pro C# oreily
+pro C# Oreilly
+design patterns
